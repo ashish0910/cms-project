@@ -1,2 +1,3 @@
 # cms-project
-This a cms project made with the help of Edwin Diaz php course . it will not work properly right now because absence of database . you need to create h database in order to run it properly. 
+CMS project built with the help of php,bootstrap.
+it is made in accordance with Edwin Diaz (edwindiaz.com) PHP course udemy.
